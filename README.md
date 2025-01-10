@@ -2,7 +2,7 @@
 
 # IN PROGRESS
 
-Branch conflicts are terrifying
+- Branch conflicts are terrifying!
 
 <br>
 <br>
