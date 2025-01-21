@@ -2,12 +2,12 @@
 
 # IN PROGRESS
 
-
+This project is not yet complete. I will be logging progress as it occurs and noting my thoughts during.
 
 <br>
 <br>
-
-# [ Initial Hopes and Dreams ]
+<details>
+  <summary><h1>[ Initial Hopes and Dreams ]</h1></summary>
 
 ### One-Time-Pad-Python-Practice
 
@@ -19,10 +19,15 @@
 
 - Branch conflicts are scary
 
-# [ Jan. 16, 2025]
+</details>
+
+<details>
+  <summary><h1>[ Jan. 16, 2025]</h1></summary>
 
 - Using ChatGPT to output a OTP and look at my code helped me learn a bit and find ways to optimize or better write my own code. So I will be restarting. I still need to look at other examplesof the one time pad code made in python to verify ChatGPT's version.
 
 - I just now learned that python has a XOR operator built in with ^ and that OTP is more commonly assocaited with One Time Password.
 
 - ChatGPT also pointed out that my earlier code used 7-bit encoding instead of what is supposed to be 8 for the full ASCII characters. ChatGPT also suggested that the cyphertext should be hex, I don't know how the encryption process is effected by the output being hex vs ASCII but I will look into that as I start the next attempt.
+
+</details>
