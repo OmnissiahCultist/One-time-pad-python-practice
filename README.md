@@ -2,7 +2,7 @@
 
 # IN PROGRESS
 
-This project is not yet complete. I will be logging progress as it occurs and noting my thoughts during.
+This project is not yet complete. I will be logging progress as it occurs and noting my thoughts during. This will be updated infrequently as it is more of a fun project for my personal practice.
 
 <br>
 <br>
