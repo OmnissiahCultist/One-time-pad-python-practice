@@ -1,8 +1,8 @@
 ---
 
-# IN PROGRESS
+# Archived
 
-This project is not yet complete. I will be logging progress as it occurs and noting my thoughts during. This will be updated infrequently as it is more of a fun project for my personal practice.
+This project was never completed and was more so as fun practice - I learned from it and realized the bigger scope of reinventing the wheel and decided to spend my time elsewhere. I will be logging progress as it occurs and noting my thoughts during if I return to it.
 
 <br>
 <br>
